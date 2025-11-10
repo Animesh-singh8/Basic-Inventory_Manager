@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Air force 1",
+    "price": 10999.0,
+    "quantity": 2
+  },
+  {
+    "id": 2,
+    "name": "New Balance 9060",
+    "price": 9000.0,
+    "quantity": 2
+  }
+]
