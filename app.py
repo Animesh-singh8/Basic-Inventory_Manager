@@ -11,7 +11,7 @@ def load_inventory():
             return json.load(f)
     return []
 
-d save_inventory(inventory):
+def save_inventory(inventory):
     with open(INVENTORY_FILE, 'w') as f:
         json.dump(inventory, f, indent=2)
 
